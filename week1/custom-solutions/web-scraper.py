@@ -1,4 +1,4 @@
-# Run this file with streamlit: streamlit run /Users/KulkarnO/Documents/Onkar/ML-AI/llm_engineering/custom-solutions/web-scraper.py
+# Run this file with streamlit: streamlit run /Users/KulkarnO/Documents/Onkar/ML-AI/llm_engineering/week1/custom-solutions/web-scraper.py
 
 
 import os
